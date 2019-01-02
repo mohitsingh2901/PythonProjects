@@ -1,0 +1,8 @@
+colors~colors_hex~colors[]~color~color~c~
+colors~colors_hex~colors[]~category~category~c~
+colors~colors_hex~colors[]~type~type~c~
+colors~colors_hex~colors[].code~hex~hex~c~
+colors~colors_rgba~colors[]~color~color~c~
+colors~colors_rgba~colors[]~category~category~c~
+colors~colors_rgba~colors[]~type~type~c~(substring(type,1,3)) as type
+colors~colors_rgba~colors[].code~rgba[]~rgba~c~

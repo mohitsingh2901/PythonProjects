@@ -1,0 +1,4 @@
+colors~colors_hex~colors[].colors~colors[]~in_col~group by in_col|min(in_col)|distinct in_col|max(in_col)~
+colors~colors_hex~colors[].colors~hex~hex~group by hex|min(hex)|distinct hex|max(hex)~
+colors~colors_hex~colors[]~category~category~~
+colors~colors_hex~colors[]~color~out_col~~
